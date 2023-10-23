@@ -17,4 +17,4 @@
 - JavaScript
 
 ### Ссылка на github pages
-<>
+<https://alexey917.github.io/Mercedes-A200/>
